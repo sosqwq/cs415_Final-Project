@@ -1696,3 +1696,551 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.18-08.04.47:961][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2025.11.18-08.04.48:049][862]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Saved/SourceControl/UncontrolledChangelists.json
 [2025.11.18-08.04.48:165][865]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.11.18-08.05.11:482][361]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-08.05.11:487][361]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/M16A1/Animation/Anim_Charging_Dry.Anim_Charging_Dry
+[2025.11.18-08.05.11:526][361]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_M16) ...
+[2025.11.18-08.05.11:531][361]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.11.18-08.05.11:538][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.18-08.05.11:777][361]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.11.18-08.05.12:135][361]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.11.18-08.05.12:230][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.11.18-08.05.14:355][489]LogSlate: Window 'Anim_Charging_Dry' being destroyed
+[2025.11.18-08.05.14:361][489]LogSlate: Window 'Anim_Charging_Dry' being destroyed
+[2025.11.18-08.05.14:376][489]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.05.14:376][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.05.14:383][489]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.05.14:383][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.05.14:413][489]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.05.14:413][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.05.14:459][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.18-08.05.15:406][574]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-08.05.15:409][574]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/M16A1/Animation/Anim_Reload.Anim_Reload
+[2025.11.18-08.05.15:409][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.11.18-08.05.15:417][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.11.18-08.05.15:651][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.11.18-08.05.15:981][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.11.18-08.05.16:008][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.11.18-08.05.18:865][742]LogSlate: Window 'Anim_Reload' being destroyed
+[2025.11.18-08.05.18:870][742]LogSlate: Window 'Anim_Reload' being destroyed
+[2025.11.18-08.05.18:887][742]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.05.18:887][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.05.18:895][742]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.05.18:895][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.05.18:928][742]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.05.18:928][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.05.18:969][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: ================================================
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Total job queries 486, among them cache hits 56 (11.52%), DDC hits 362 (74.49%), Duplicates 62 (12.76%)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Tracking 368 distinct input hashes that result in 266 distinct outputs (72.28%)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: RAM used: 3.47 MiB of 2.40 GiB budget. Usage: 0.14%
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Average time worker was idle: 166.22 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 2.02 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 2.13
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Shader code size: total 54.812 KiB, numShaders 6, average 9.135 KiB, min 6.117 KiB, max 12.43 KiB
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.66 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.13%
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Average processing rate: 1.29 jobs/sec
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Total thread time: 4.794 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Total thread preprocess time: 9.445 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Percentage time preprocessing: 197.03%
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.085681
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 36.40% of total time (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.69% of total time (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.27% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.02% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.54% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: === Material stats ===
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Materials Translated:    156
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Material Translation Only: 0.04 s (39%)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: Material Cache Hits: 21 (13%)
+[2025.11.18-08.05.29:736][ 91]LogShaderCompilers: Display: ================================================
+[2025.11.18-08.07.08:408][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1365.111328
+[2025.11.18-08.07.09:408][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-08.07.09:408][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1365.777954, Update Interval: 345.711853
+[2025.11.18-08.08.02:343][879]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 39879
+[2025.11.18-08.08.02:343][879]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.11.18-08.08.02:344][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.08.54:312][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.18-08.08.54:315][409]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.18-08.08.54:504][409]LogStaticMesh: Display: Building static mesh SM_FoamBullet (Required Memory Estimate: 0.998781 MB)...
+[2025.11.18-08.08.54:507][409]LogStaticMesh: Adjacency [0.00s], tris: 636, UVs 1
+[2025.11.18-08.08.54:507][409]LogStaticMesh: Clustering [0.00s]. Ratio: 1.200000
+[2025.11.18-08.08.54:507][409]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.54:515][409]LogStaticMesh: Display: Building static mesh FirstPersonProjectileMesh (Required Memory Estimate: 0.756426 MB)...
+[2025.11.18-08.08.54:518][409]LogSkeletalMesh: Building Skeletal Mesh SKM_Rifle...
+[2025.11.18-08.08.54:519][409]LogStaticMesh: Built static mesh [0.00s] /Game/Weapons/GrenadeLauncher/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2025.11.18-08.08.54:522][409]LogStaticMesh: Reduce [0.01s]
+[2025.11.18-08.08.54:522][409]LogTexture: Display: Building textures: /Game/Weapons/Rifle/Textures/T_Rifle_BC.T_Rifle_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.11.18-08.08.54:526][409]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2025.11.18-08.08.54:528][409]LogTexture: Display: Building textures: /Game/Weapons/Rifle/Textures/T_Rifle_N.T_Rifle_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 304.499988 MB), EncodeSpeed: Fast
+[2025.11.18-08.08.54:529][409]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2025.11.18-08.08.54:530][409]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU (Required Memory Estimate: 2.06 MB)
+[2025.11.18-08.08.54:530][409]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.54:530][409]LogStaticMesh:   Input: 12 Clusters, 1392 Triangles and 1055 Vertices
+[2025.11.18-08.08.54:530][409]LogStaticMesh:   Output without splits: 12 Clusters, 1392 Triangles and 1078 Vertices
+[2025.11.18-08.08.54:530][409]LogStaticMesh:   Output with splits: 12 Clusters, 1392 Triangles and 1078 Vertices
+[2025.11.18-08.08.54:531][409]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.54:531][409]LogStaticMesh: WritePages:
+[2025.11.18-08.08.54:531][409]LogStaticMesh:   Root: GPU size: 13860 bytes. 1 Pages. 13860.000 bytes per page (42.297% utilization).
+[2025.11.18-08.08.54:531][409]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.18-08.08.54:531][409]LogStaticMesh:   Page data disk size: 11516 bytes. Fixup data size: 72 bytes.
+[2025.11.18-08.08.54:531][409]LogStaticMesh:   Total GPU size: 13860 bytes, Total disk size: 11588 bytes.
+[2025.11.18-08.08.54:531][409]LogStaticMesh: Encode [0.00s]
+[2025.11.18-08.08.54:531][409]LogStaticMesh: NaniteBuild [0.02s]
+[2025.11.18-08.08.54:531][409]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD (Required Memory Estimate: 2.06 MB)
+[2025.11.18-08.08.54:532][409]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC (Required Memory Estimate: 2.06 MB)
+[2025.11.18-08.08.54:546][409]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU, at AnimationSequence/50e4f12b976c41805ddfa30792bc2a893c01a806
+[2025.11.18-08.08.54:547][409]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC, at AnimationSequence/bfa4f492a36872edf50b58ac5c81ee82a005c199
+[2025.11.18-08.08.54:548][409]LogStaticMesh: Built static mesh [0.04s] /Game/Variant_Shooter/Blueprints/Pickups/Projectiles/Meshes/SM_FoamBullet.SM_FoamBullet
+[2025.11.18-08.08.54:551][409]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Anims/Rifle/AIM/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD, at AnimationSequence/a613c400ec93a34c09b5a745069f54a2c6dbf528
+[2025.11.18-08.08.54:564][409]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.18-08.08.54:565][409]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.11.18-08.08.54:565][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.18-08.08.54:565][409]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.18-08.08.54:693][409]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Weapons/Rifle/Meshes/SKM_Rifle.SKM_Rifle
+[2025.11.18-08.08.54:893][409]LogStaticMesh: Display: Building static mesh SM_ChamferCube (Required Memory Estimate: 3.103168 MB)...
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Display: Building static mesh SM_DoorFrame_Edge (Required Memory Estimate: 0.06426 MB)...
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Adjacency [0.00s], tris: 36, UVs 1
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Reduce [0.00s]
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.11.18-08.08.54:895][409]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.11.18-08.08.54:896][409]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Input: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Output without splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Output with splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.54:896][409]LogStaticMesh: WritePages:
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Root: GPU size: 720 bytes. 1 Pages. 720.000 bytes per page (2.197% utilization).
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Page data disk size: 884 bytes. Fixup data size: 24 bytes.
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Total GPU size: 720 bytes, Total disk size: 908 bytes.
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Encode [0.00s]
+[2025.11.18-08.08.54:896][409]LogStaticMesh: NaniteBuild [0.00s]
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Display: Building static mesh SM_Door (Required Memory Estimate: 0.02669 MB)...
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Display: Building static mesh SM_DoorFrame_Corner (Required Memory Estimate: 0.837803 MB)...
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Reduce [0.00s]
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.SM_DoorFrame_Edge
+[2025.11.18-08.08.54:896][409]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.11.18-08.08.54:896][409]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.11.18-08.08.54:896][409]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.54:896][409]LogStaticMesh: WritePages:
+[2025.11.18-08.08.54:897][409]LogStaticMesh:   Root: GPU size: 428 bytes. 1 Pages. 428.000 bytes per page (1.306% utilization).
+[2025.11.18-08.08.54:897][409]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.18-08.08.54:897][409]LogStaticMesh:   Page data disk size: 588 bytes. Fixup data size: 24 bytes.
+[2025.11.18-08.08.54:897][409]LogStaticMesh:   Total GPU size: 428 bytes, Total disk size: 612 bytes.
+[2025.11.18-08.08.54:897][409]LogStaticMesh: Encode [0.00s]
+[2025.11.18-08.08.54:897][409]LogStaticMesh: NaniteBuild [0.00s]
+[2025.11.18-08.08.54:897][409]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.SM_Door
+[2025.11.18-08.08.54:897][409]LogStaticMesh: Adjacency [0.00s], tris: 536, UVs 1
+[2025.11.18-08.08.54:898][409]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2025.11.18-08.08.54:898][409]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.54:902][409]LogStaticMesh: Adjacency [0.00s], tris: 2024, UVs 2
+[2025.11.18-08.08.54:904][409]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.18-08.08.54:904][409]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.54:906][409]LogStaticMesh: Display: Building static mesh SM_CircularBand (Required Memory Estimate: 0.111698 MB)...
+[2025.11.18-08.08.54:908][409]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.SM_CircularBand
+[2025.11.18-08.08.54:912][409]LogStaticMesh: Reduce [0.01s]
+[2025.11.18-08.08.54:912][409]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.18-08.08.54:912][409]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.18-08.08.54:913][409]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Input: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Output without splits: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Output with splits: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.11.18-08.08.54:913][409]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.54:913][409]LogStaticMesh: WritePages:
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Root: GPU size: 15520 bytes. 1 Pages. 15520.000 bytes per page (47.363% utilization).
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Page data disk size: 12056 bytes. Fixup data size: 72 bytes.
+[2025.11.18-08.08.54:913][409]LogStaticMesh:   Total GPU size: 15520 bytes, Total disk size: 12128 bytes.
+[2025.11.18-08.08.54:913][409]LogStaticMesh: Encode [0.00s]
+[2025.11.18-08.08.54:913][409]LogStaticMesh: NaniteBuild [0.02s]
+[2025.11.18-08.08.54:922][409]LogStaticMesh: Built static mesh [0.03s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.SM_DoorFrame_Corner
+[2025.11.18-08.08.54:926][409]LogStaticMesh: Display: Building static mesh SM_CircularGlow (Required Memory Estimate: 0.157287 MB)...
+[2025.11.18-08.08.54:927][409]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.SM_CircularGlow
+[2025.11.18-08.08.54:947][409]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Variant_Shooter/Blueprints/AI/ST_Shooter_ShootAtTarget.ST_Shooter_ShootAtTarget' succeeded.
+[2025.11.18-08.08.54:952][409]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Variant_Shooter/Blueprints/AI/ST_Shooter.ST_Shooter' succeeded.
+[2025.11.18-08.08.54:956][409]LogStaticMesh: Reduce [0.05s]
+[2025.11.18-08.08.54:963][409]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2025.11.18-08.08.54:964][409]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.11.18-08.08.54:964][409]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.54:964][409]LogStaticMesh:   Input: 31 Clusters, 3914 Triangles and 2909 Vertices
+[2025.11.18-08.08.54:964][409]LogStaticMesh:   Output without splits: 31 Clusters, 3914 Triangles and 2989 Vertices
+[2025.11.18-08.08.54:964][409]LogStaticMesh:   Output with splits: 31 Clusters, 3914 Triangles and 2989 Vertices
+[2025.11.18-08.08.54:964][409]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 31, Slow Path Clusters: 0, 1 Material: 31, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.54:965][409]LogStaticMesh: WritePages:
+[2025.11.18-08.08.54:965][409]LogStaticMesh:   Root: GPU size: 31724 bytes. 1 Pages. 31724.000 bytes per page (96.814% utilization).
+[2025.11.18-08.08.54:965][409]LogStaticMesh:   Streaming: GPU size: 18532 bytes. 1 Pages (1 with relative encoding). 18532.000 bytes per page (14.139% utilization).
+[2025.11.18-08.08.54:965][409]LogStaticMesh:   Page data disk size: 41236 bytes. Fixup data size: 272 bytes.
+[2025.11.18-08.08.54:965][409]LogStaticMesh:   Total GPU size: 50256 bytes, Total disk size: 41508 bytes.
+[2025.11.18-08.08.54:965][409]LogStaticMesh: Encode [0.00s]
+[2025.11.18-08.08.54:965][409]LogStaticMesh: NaniteBuild [0.06s]
+[2025.11.18-08.08.54:974][409]LogStaticMesh: Built static mesh [0.08s] /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.11.18-08.08.54:986][409]LogTexture: Display: Building textures: /Game/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.NS_JumpPad:Glow_Base_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.11.18-08.08.54:986][409]LogTexture: Display: Building textures: /Game/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.NS_JumpPad:Spores_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.11.18-08.08.54:986][409]LogTexture: Display: Building textures: /Game/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.NS_JumpPad:Bands_0.ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.11.18-08.08.55:030][409]LogWorldPartition: Display: WorldPartition initialize took 464.819 ms (total: 541.032 ms)
+[2025.11.18-08.08.55:084][409]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.18-08.08.55:084][409]Cmd: MAP LOAD FILE="C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Variant_Shooter/Lvl_ArenaShooter.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.11.18-08.08.55:098][409]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.08.55:099][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.08.55:099][409]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.11.18-08.08.55:134][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.18-08.08.55:143][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.18-08.08.55:145][409]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.08.55:145][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.08.55:145][409]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.18-08.08.55:170][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.11.18-08.08.55:192][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.11.18-08.08.55:200][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ArenaShooter'.
+[2025.11.18-08.08.55:200][409]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.18-08.08.55:202][409]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.11.18-08.08.55:202][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.18-08.08.55:202][409]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.18-08.08.55:239][409]LogWorldPartition: Display: WorldPartition initialize took 37.122 ms (total: 578.154 ms)
+[2025.11.18-08.08.55:282][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.11.18-08.08.55:312][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.11.18-08.08.55:319][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.11.18-08.08.55:320][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.614ms to complete.
+[2025.11.18-08.08.55:467][411]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.18-08.08.56:930][506]LogNiagara: Compiling System NiagaraSystem /Game/LevelPrototyping/Interactable/JumpPad/Assets/NS_JumpPad.NS_JumpPad took 1.898534 sec (time since issued).
+[2025.11.18-08.08.57:414][526]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-08.08.57:424][526]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.18-08.08.57:425][526]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.11.18-08.08.57:425][526]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.11.18-08.08.57:426][526]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 1.411 ms (total: 2.857 ms)
+[2025.11.18-08.08.57:429][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-08.08.57:462][526]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.18-08.08.57:475][526]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.18-08.08.57:477][526]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.551 ms (total: 3.963 ms)
+[2025.11.18-08.08.57:477][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015371s)
+[2025.11.18-08.08.57:477][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.015430s)
+[2025.11.18-08.08.57:514][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.11.18-08.08.57:520][526]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.18-08.08.57:523][526]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.18-08.08.57:523][526]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.18-08.08.57:523][526]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.18-08.08.57:523][526]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.18-08.08.57:526][526]LogWorldPartition: Display: WorldPartition initialize took 3.350 ms (total: 581.505 ms)
+[2025.11.18-08.08.57:526][526]LogPlayLevel: PIE: World Init took: (0.006224s)
+[2025.11.18-08.08.57:527][526]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-08.08.57:527][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-08.08.57:527][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-08.08.57:527][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-08.08.57:527][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-08.08.57:527][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-08.08.57:530][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-08.08.57:668][526]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (2- INZONE H5 - Game)
+[2025.11.18-08.08.57:669][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-08.08.57:669][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-08.08.57:669][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-08.08.57:669][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.11.18-08.08.57:670][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.11.18-08.08.57:673][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.11.18-08.08.57:673][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.11.18-08.08.57:673][526]LogInit: FAudioDevice initialized with ID 4.
+[2025.11.18-08.08.57:673][526]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ArenaShooter'.
+[2025.11.18-08.08.57:673][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.18-08.08.57:678][526]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.11.18-08.08.57:689][526]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.11.18-02.08.57
+[2025.11.18-08.08.57:692][526]LogWorld: Bringing up level for play took: 0.013795
+[2025.11.18-08.08.57:696][526]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.11.18-08.08.57:708][526]PIE: Server logged in
+[2025.11.18-08.08.57:711][526]PIE: Play in editor total start time 0.287 seconds.
+[2025.11.18-08.08.57:768][527]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.18-08.08.57:885][528]LogStaticMesh: Display: Building static mesh SM_Pistol (Required Memory Estimate: 7.968026 MB)...
+[2025.11.18-08.08.57:885][528]LogStaticMesh: Display: Building static mesh SM_GrenadeLauncher (Required Memory Estimate: 14.72963 MB)...
+[2025.11.18-08.08.57:885][528]LogStaticMesh: Display: Building static mesh SM_Rifle (Required Memory Estimate: 22.832939 MB)...
+[2025.11.18-08.08.57:906][528]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Weapons/Pistol/Meshes/SM_Pistol.SM_Pistol being ready before playing
+[2025.11.18-08.08.57:906][528]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Weapons/Rifle/Meshes/SM_Rifle.SM_Rifle being ready before playing
+[2025.11.18-08.08.57:906][528]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher.SM_GrenadeLauncher being ready before playing
+[2025.11.18-08.08.57:916][528]LogStaticMesh: Adjacency [0.00s], tris: 5590, UVs 2, Color
+[2025.11.18-08.08.57:922][528]LogStaticMesh: Display: Waiting for static meshes to be ready 0/3 (/Game/Weapons/Pistol/Meshes/SM_Pistol) ...
+[2025.11.18-08.08.57:930][528]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.18-08.08.57:931][528]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.57:951][528]LogStaticMesh: Adjacency [0.00s], tris: 10317, UVs 2
+[2025.11.18-08.08.57:969][528]LogStaticMesh: Clustering [0.02s]. Ratio: 1.012346
+[2025.11.18-08.08.57:970][528]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.57:981][528]LogStaticMesh: Adjacency [0.00s], tris: 16033, UVs 2, Color
+[2025.11.18-08.08.58:013][528]LogStaticMesh: Clustering [0.03s]. Ratio: 1.007936
+[2025.11.18-08.08.58:016][528]LogStaticMesh: Leaves [0.00s]
+[2025.11.18-08.08.58:091][528]LogStaticMesh: Reduce [0.16s]
+[2025.11.18-08.08.58:151][528]LogStaticMesh: Reduce [0.18s]
+[2025.11.18-08.08.58:188][528]LogStaticMesh: Fallback [0.10s], num tris: 3026
+[2025.11.18-08.08.58:248][528]LogStaticMesh: Fallback [0.10s], num tris: 3213
+[2025.11.18-08.08.58:261][528]LogStaticMesh: Fallback [0.07s], num tris: 1826
+[2025.11.18-08.08.58:263][528]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.58:263][528]LogStaticMesh:   Input: 89 Clusters, 11255 Triangles and 10652 Vertices
+[2025.11.18-08.08.58:263][528]LogStaticMesh:   Output without splits: 89 Clusters, 11255 Triangles and 10714 Vertices
+[2025.11.18-08.08.58:263][528]LogStaticMesh:   Output with splits: 89 Clusters, 11255 Triangles and 10714 Vertices
+[2025.11.18-08.08.58:263][528]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 89, Slow Path Clusters: 0, 1 Material: 89, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.58:265][528]LogStaticMesh: WritePages:
+[2025.11.18-08.08.58:266][528]LogStaticMesh:   Root: GPU size: 32340 bytes. 1 Pages. 32340.000 bytes per page (98.694% utilization).
+[2025.11.18-08.08.58:266][528]LogStaticMesh:   Streaming: GPU size: 146900 bytes. 2 Pages (2 with relative encoding). 73450.000 bytes per page (56.038% utilization).
+[2025.11.18-08.08.58:266][528]LogStaticMesh:   Page data disk size: 158892 bytes. Fixup data size: 528 bytes.
+[2025.11.18-08.08.58:266][528]LogStaticMesh:   Total GPU size: 179240 bytes, Total disk size: 159420 bytes.
+[2025.11.18-08.08.58:266][528]LogStaticMesh: Encode [0.00s]
+[2025.11.18-08.08.58:266][528]LogStaticMesh: NaniteBuild [0.35s]
+[2025.11.18-08.08.58:271][528]LogStaticMesh: Reduce [0.26s]
+[2025.11.18-08.08.58:312][528]LogStaticMesh: Fallback [0.06s], num tris: 1934
+[2025.11.18-08.08.58:314][528]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.58:315][528]LogStaticMesh:   Input: 168 Clusters, 21146 Triangles and 22644 Vertices
+[2025.11.18-08.08.58:315][528]LogStaticMesh:   Output without splits: 168 Clusters, 21146 Triangles and 22686 Vertices
+[2025.11.18-08.08.58:315][528]LogStaticMesh:   Output with splits: 168 Clusters, 21146 Triangles and 22686 Vertices
+[2025.11.18-08.08.58:315][528]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 168, Slow Path Clusters: 0, 1 Material: 168, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.58:318][528]LogStaticMesh: WritePages:
+[2025.11.18-08.08.58:318][528]LogStaticMesh:   Root: GPU size: 31668 bytes. 1 Pages. 31668.000 bytes per page (96.643% utilization).
+[2025.11.18-08.08.58:318][528]LogStaticMesh:   Streaming: GPU size: 307392 bytes. 3 Pages (3 with relative encoding). 102464.000 bytes per page (78.174% utilization).
+[2025.11.18-08.08.58:318][528]LogStaticMesh:   Page data disk size: 273368 bytes. Fixup data size: 952 bytes.
+[2025.11.18-08.08.58:318][528]LogStaticMesh:   Total GPU size: 339060 bytes, Total disk size: 274320 bytes.
+[2025.11.18-08.08.58:318][528]LogStaticMesh: Encode [0.01s]
+[2025.11.18-08.08.58:318][528]LogStaticMesh: NaniteBuild [0.37s]
+[2025.11.18-08.08.58:337][528]LogStaticMesh: Built static mesh [0.45s] /Game/Weapons/Pistol/Meshes/SM_Pistol.SM_Pistol
+[2025.11.18-08.08.58:365][528]LogStaticMesh: Display: Waiting for static meshes to be ready 1/3 (/Game/Weapons/Rifle/Meshes/SM_Rifle) ...
+[2025.11.18-08.08.58:447][528]LogStaticMesh: Built static mesh [0.56s] /Game/Weapons/GrenadeLauncher/Meshes/SM_GrenadeLauncher.SM_GrenadeLauncher
+[2025.11.18-08.08.58:462][528]LogStaticMesh: Fallback [0.19s], num tris: 4857
+[2025.11.18-08.08.58:533][528]LogStaticMesh: Fallback [0.07s], num tris: 2175
+[2025.11.18-08.08.58:536][528]LogStaticMesh: ConstrainClusters:
+[2025.11.18-08.08.58:536][528]LogStaticMesh:   Input: 262 Clusters, 33035 Triangles and 31878 Vertices
+[2025.11.18-08.08.58:536][528]LogStaticMesh:   Output without splits: 262 Clusters, 33035 Triangles and 32052 Vertices
+[2025.11.18-08.08.58:536][528]LogStaticMesh:   Output with splits: 262 Clusters, 33035 Triangles and 32052 Vertices
+[2025.11.18-08.08.58:537][528]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 262, Slow Path Clusters: 0, 1 Material: 262, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.18-08.08.58:541][528]LogStaticMesh: WritePages:
+[2025.11.18-08.08.58:541][528]LogStaticMesh:   Root: GPU size: 29808 bytes. 1 Pages. 29808.000 bytes per page (90.967% utilization).
+[2025.11.18-08.08.58:541][528]LogStaticMesh:   Streaming: GPU size: 495884 bytes. 4 Pages (4 with relative encoding). 123971.000 bytes per page (94.582% utilization).
+[2025.11.18-08.08.58:541][528]LogStaticMesh:   Page data disk size: 451428 bytes. Fixup data size: 1624 bytes.
+[2025.11.18-08.08.58:541][528]LogStaticMesh:   Total GPU size: 525692 bytes, Total disk size: 453052 bytes.
+[2025.11.18-08.08.58:541][528]LogStaticMesh: Encode [0.01s]
+[2025.11.18-08.08.58:541][528]LogStaticMesh: NaniteBuild [0.56s]
+[2025.11.18-08.08.58:639][528]LogStaticMesh: Built static mesh [0.76s] /Game/Weapons/Rifle/Meshes/SM_Rifle.SM_Rifle
+[2025.11.18-08.08.58:852][531]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.18-08.08.58:852][531]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.18-08.08.58:952][531]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.18-08.08.58:952][531]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.18-08.11.29:974][647]LogShaderCompilers: Display: ================================================
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Total job queries 609, among them cache hits 75 (12.32%), DDC hits 372 (61.08%), Duplicates 75 (12.32%)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Tracking 459 distinct input hashes that result in 342 distinct outputs (74.51%)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: RAM used: 4.22 MiB of 2.40 GiB budget. Usage: 0.17%
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Shaders Compiled: 87
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Jobs assigned 87, completed 87 (100%)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Average time worker was idle: 40.62 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Time job spent in pending queue: average 4.37 s, longest 15.54 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Job execution time: average 3.90 s, max 13.97 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Job life time (pending + execution): average 8.27 s, max 21.54
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Shader code size: total 0.957 MiB, numShaders 90, average 10.895 KiB, min 2.691 KiB, max 26.051 KiB
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.55 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.11%
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Jobs were issued in 77 batches (only local compilation was used), average 1.13 jobs/batch
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Total thread time: 249.186 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Total thread preprocess time: 11.543 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Percentage time preprocessing: 4.63%
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Effective parallelization: 8.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.679732
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 11.44 sec, max 13.88 sec, min 9.00 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    6 times, average 7.44 sec, max 8.13 sec, min 5.95 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 6.32 sec, max 7.12 sec, min 4.48 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 5.64 sec, max 6.20 sec, min 4.86 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 4.97 sec, max 5.74 sec, min 4.50 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.91% of total time (compiled    6 times, average 7.44 sec, max 8.13 sec, min 5.95 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.31% of total time (compiled    5 times, average 5.64 sec, max 6.20 sec, min 4.86 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.15% of total time (compiled    4 times, average 6.32 sec, max 7.12 sec, min 4.48 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.33% of total time (compiled    6 times, average 3.87 sec, max 5.49 sec, min 1.74 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.18% of total time (compiled    2 times, average 11.44 sec, max 13.88 sec, min 9.00 sec)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: === Material stats ===
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Materials Translated:    166
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: Material Cache Hits: 21 (13%)
+[2025.11.18-08.11.29:975][647]LogShaderCompilers: Display: ================================================
+[2025.11.18-08.12.58:312][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-08.12.58:312][725]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.18-08.12.58:312][725]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-08.12.58:312][725]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.12.58:314][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.12.58:314][725]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.18-08.12.58:317][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-08.12.58:321][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.12.58:342][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-08.12.58:343][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.11.18-08.12.58:343][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.11.18-08.12.58:345][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.11.18-08.12.58:356][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.18-08.12.58:419][726]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.11.18-08.13.07:744][618]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-08.13.07:752][618]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.18-08.13.07:752][618]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.11.18-08.13.07:753][618]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.11.18-08.13.07:753][618]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 1.386 ms (total: 4.243 ms)
+[2025.11.18-08.13.07:755][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-08.13.07:781][618]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.18-08.13.07:793][618]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.18-08.13.07:795][618]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.303 ms (total: 6.266 ms)
+[2025.11.18-08.13.07:795][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014194s)
+[2025.11.18-08.13.07:795][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.014244s)
+[2025.11.18-08.13.07:830][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.18-08.13.07:832][618]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.18-08.13.07:834][618]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.18-08.13.07:834][618]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.18-08.13.07:834][618]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.18-08.13.07:834][618]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.18-08.13.07:836][618]LogWorldPartition: Display: WorldPartition initialize took 2.642 ms (total: 584.147 ms)
+[2025.11.18-08.13.07:836][618]LogPlayLevel: PIE: World Init took: (0.004552s)
+[2025.11.18-08.13.07:837][618]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-08.13.07:837][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-08.13.07:837][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-08.13.07:837][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-08.13.07:837][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-08.13.07:837][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-08.13.07:839][618]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-08.13.07:968][618]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (2- INZONE H5 - Game)
+[2025.11.18-08.13.07:968][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-08.13.07:968][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-08.13.07:968][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-08.13.07:969][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.11.18-08.13.07:969][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2025.11.18-08.13.07:971][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.11.18-08.13.07:971][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.11.18-08.13.07:971][618]LogInit: FAudioDevice initialized with ID 5.
+[2025.11.18-08.13.07:971][618]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ArenaShooter'.
+[2025.11.18-08.13.07:971][618]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.18-08.13.07:975][618]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.11.18-08.13.07:983][618]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.11.18-02.13.07
+[2025.11.18-08.13.07:985][618]LogWorld: Bringing up level for play took: 0.009292
+[2025.11.18-08.13.07:988][618]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.11.18-08.13.07:995][618]PIE: Server logged in
+[2025.11.18-08.13.07:997][618]PIE: Play in editor total start time 0.246 seconds.
+[2025.11.18-08.13.08:040][619]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.18-08.13.19:703][631]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1736.413086
+[2025.11.18-08.13.19:764][636]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-08.13.19:764][636]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1736.460571, Update Interval: 307.104706
+[2025.11.18-08.13.40:941][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-08.13.40:941][344]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.18-08.13.40:941][344]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-08.13.40:942][344]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.13.40:944][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.13.40:944][344]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.18-08.13.40:947][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-08.13.40:951][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.13.40:973][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-08.13.40:974][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.11.18-08.13.40:974][344]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.11.18-08.13.40:976][344]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.11.18-08.13.40:986][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.18-08.13.41:054][345]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.11.18-08.13.45:933][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.18-08.13.45:939][756]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.18-08.13.45:939][756]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.11.18-08.13.45:939][756]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.11.18-08.13.45:940][756]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 845 us (total: 5.088 ms)
+[2025.11.18-08.13.45:942][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.18-08.13.45:971][756]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.18-08.13.45:982][756]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.18-08.13.45:984][756]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.232 ms (total: 8.498 ms)
+[2025.11.18-08.13.45:984][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013198s)
+[2025.11.18-08.13.45:984][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.013234s)
+[2025.11.18-08.13.46:006][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.11.18-08.13.46:008][756]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.18-08.13.46:009][756]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.18-08.13.46:010][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.18-08.13.46:010][756]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.18-08.13.46:010][756]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.18-08.13.46:012][756]LogWorldPartition: Display: WorldPartition initialize took 2.637 ms (total: 586.785 ms)
+[2025.11.18-08.13.46:012][756]LogPlayLevel: PIE: World Init took: (0.004174s)
+[2025.11.18-08.13.46:013][756]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.18-08.13.46:013][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.18-08.13.46:013][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.18-08.13.46:013][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.18-08.13.46:013][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.18-08.13.46:013][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.18-08.13.46:015][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.18-08.13.46:152][756]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (2- INZONE H5 - Game)
+[2025.11.18-08.13.46:153][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.18-08.13.46:153][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.18-08.13.46:153][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.18-08.13.46:154][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.18-08.13.46:154][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2025.11.18-08.13.46:156][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.18-08.13.46:156][756]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.18-08.13.46:156][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.18-08.13.46:156][756]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ArenaShooter'.
+[2025.11.18-08.13.46:156][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.18-08.13.46:159][756]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.11.18-08.13.46:166][756]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 0) at 2025.11.18-02.13.46
+[2025.11.18-08.13.46:168][756]LogWorld: Bringing up level for play took: 0.008755
+[2025.11.18-08.13.46:171][756]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.11.18-08.13.46:177][756]PIE: Server logged in
+[2025.11.18-08.13.46:179][756]PIE: Play in editor total start time 0.241 seconds.
+[2025.11.18-08.13.46:222][757]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.18-08.15.29:491][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-08.15.29:491][ 41]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.18-08.15.29:491][ 41]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.18-08.15.29:492][ 41]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.18-08.15.29:493][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.15.29:493][ 41]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.18-08.15.29:496][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.18-08.15.29:500][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.18-08.15.29:523][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.18-08.15.29:524][ 41]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.18-08.15.29:524][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.11.18-08.15.29:526][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.11.18-08.15.29:536][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.18-08.15.29:604][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.11.18-08.19.25:979][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2102.685059
+[2025.11.18-08.19.26:979][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.18-08.19.26:979][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2103.351318, Update Interval: 301.790833
