@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_pistol_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_rifle_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_shotgun_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_sniper_rifle_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_axe_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_baseball_bat_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_hockey_stick_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_knife_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_pistol_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_pistol_drum_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_rifle_magazine_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_shotgun_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_shotgun_handguard_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_sight_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_sniper_rifle_001.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Maps/Overview.umap",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Maps/Overview_BuiltData.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Textures/T_Textures.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Materials/M_Material.uasset",
+				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/SM_rifle_001.uasset"
+			]
+		}
+	]
+}
