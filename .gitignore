@@ -73,3 +73,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/game/Content/PolygonCityZombies
+/game/Content/BSP_ZombieAnims
