@@ -1558,3 +1558,239 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.21-20.30.45:642][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.21-20.30.45:643][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.21-20.30.45:643][436]AssetCheck: /Game/Variant_Shooter/Blueprints/BP_ShooterCharacter Validating asset
+[2025.11.21-20.31.08:402][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.21-20.31.08:408][591]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.21-20.31.08:408][591]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.11.21-20.31.08:409][591]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.11.21-20.31.08:409][591]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 1.013 ms (total: 5.120 ms)
+[2025.11.21-20.31.08:412][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.21-20.31.08:412][591]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.21-20.31.08:426][591]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.21-20.31.08:429][591]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.140 ms (total: 14.150 ms)
+[2025.11.21-20.31.08:429][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017008s)
+[2025.11.21-20.31.08:429][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.017040s)
+[2025.11.21-20.31.08:456][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.21-20.31.08:458][591]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.21-20.31.08:460][591]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.21-20.31.08:460][591]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.21-20.31.08:460][591]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.21-20.31.08:460][591]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.21-20.31.08:464][591]LogWorldPartition: Display: WorldPartition initialize took 3.540 ms (total: 1.17 sec)
+[2025.11.21-20.31.08:464][591]LogPlayLevel: PIE: World Init took: (0.005409s)
+[2025.11.21-20.31.08:464][591]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.21-20.31.08:464][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.21-20.31.08:464][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.21-20.31.08:464][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.21-20.31.08:464][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.21-20.31.08:464][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.21-20.31.08:467][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.21-20.31.08:511][591]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.21-20.31.08:513][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.21-20.31.08:513][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.21-20.31.08:513][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.21-20.31.08:513][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.11.21-20.31.08:513][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.11.21-20.31.08:515][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.11.21-20.31.08:515][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.11.21-20.31.08:515][591]LogInit: FAudioDevice initialized with ID 6.
+[2025.11.21-20.31.08:515][591]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ArenaShooter'.
+[2025.11.21-20.31.08:515][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.21-20.31.08:520][591]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.11.21-20.31.08:527][591]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 60) at 2025.11.21-14.31.08
+[2025.11.21-20.31.08:530][591]LogWorld: Bringing up level for play took: 0.010268
+[2025.11.21-20.31.08:533][591]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.11.21-20.31.08:541][591]PIE: Server logged in
+[2025.11.21-20.31.08:543][591]PIE: Play in editor total start time 0.135 seconds.
+[2025.11.21-20.31.08:593][592]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.21-20.31.09:184][626]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.11.21-20.31.20:066][278]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.31.22:616][431]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.31.27:433][720]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.31.30:433][900]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.31.31:116][941]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.31.32:166][  4]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.31.33:226][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-20.31.33:226][ 66]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.21-20.31.33:226][ 66]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.21-20.31.33:226][ 66]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.21-20.31.33:228][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-20.31.33:228][ 66]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.21-20.31.33:230][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.21-20.31.33:236][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-20.31.33:263][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-20.31.33:265][ 66]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.11.21-20.31.33:265][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.11.21-20.31.33:267][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.11.21-20.31.33:278][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.21-20.31.33:317][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.11.21-20.31.44:671][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 695.002441
+[2025.11.21-20.31.44:772][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-20.31.44:772][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 695.086609, Update Interval: 335.327606
+[2025.11.21-20.32.21:447][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.21-20.32.24:122][905]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.21-20.32.24:129][905]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.21-20.32.24:129][905]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.11.21-20.32.24:129][905]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.11.21-20.32.24:130][905]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 1.148 ms (total: 6.268 ms)
+[2025.11.21-20.32.24:133][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.21-20.32.24:133][905]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.21-20.32.24:147][905]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.21-20.32.24:150][905]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.245 ms (total: 17.396 ms)
+[2025.11.21-20.32.24:150][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017185s)
+[2025.11.21-20.32.24:150][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.017219s)
+[2025.11.21-20.32.24:180][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.21-20.32.24:183][905]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.21-20.32.24:186][905]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.21-20.32.24:186][905]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.21-20.32.24:186][905]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.21-20.32.24:186][905]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.21-20.32.24:190][905]LogWorldPartition: Display: WorldPartition initialize took 3.938 ms (total: 1.17 sec)
+[2025.11.21-20.32.24:190][905]LogPlayLevel: PIE: World Init took: (0.005961s)
+[2025.11.21-20.32.24:191][905]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.21-20.32.24:191][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.21-20.32.24:191][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.21-20.32.24:191][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.21-20.32.24:191][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.21-20.32.24:191][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.21-20.32.24:193][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.21-20.32.24:253][905]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.21-20.32.24:253][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.21-20.32.24:253][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.21-20.32.24:253][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.21-20.32.24:254][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.21-20.32.24:254][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.21-20.32.24:257][905]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.21-20.32.24:257][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.21-20.32.24:257][905]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ArenaShooter'.
+[2025.11.21-20.32.24:257][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.21-20.32.24:257][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.21-20.32.24:261][905]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.11.21-20.32.24:271][905]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 60) at 2025.11.21-14.32.24
+[2025.11.21-20.32.24:274][905]LogWorld: Bringing up level for play took: 0.012585
+[2025.11.21-20.32.24:277][905]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.11.21-20.32.24:288][905]PIE: Server logged in
+[2025.11.21-20.32.24:290][905]PIE: Play in editor total start time 0.162 seconds.
+[2025.11.21-20.32.24:348][906]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.21-20.32.25:386][965]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.11.21-20.32.26:103][  8]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.32.29:670][222]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.32.31:021][303]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.32.34:845][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-20.32.34:845][530]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.21-20.32.34:846][530]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.21-20.32.34:846][530]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.21-20.32.34:848][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-20.32.34:848][530]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.21-20.32.34:850][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.21-20.32.34:856][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-20.32.34:883][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.21-20.32.34:883][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.21-20.32.34:884][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.11.21-20.32.34:885][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.11.21-20.32.34:891][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-20.32.34:897][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.21-20.32.34:930][531]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.11.21-20.33.21:183][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.21-20.33.23:293][995]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.21-20.33.23:300][995]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.21-20.33.23:300][995]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.11.21-20.33.23:301][995]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.11.21-20.33.23:301][995]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 1.012 ms (total: 7.280 ms)
+[2025.11.21-20.33.23:305][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.21-20.33.23:326][995]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.21-20.33.23:338][995]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.21-20.33.23:340][995]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.647 ms (total: 20.044 ms)
+[2025.11.21-20.33.23:340][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015238s)
+[2025.11.21-20.33.23:340][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.015281s)
+[2025.11.21-20.33.23:370][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.11.21-20.33.23:373][995]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.11.21-20.33.23:375][995]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.21-20.33.23:375][995]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.21-20.33.23:375][995]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.21-20.33.23:375][995]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.21-20.33.23:379][995]LogWorldPartition: Display: WorldPartition initialize took 4.060 ms (total: 1.18 sec)
+[2025.11.21-20.33.23:379][995]LogPlayLevel: PIE: World Init took: (0.006081s)
+[2025.11.21-20.33.23:380][995]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.21-20.33.23:380][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.21-20.33.23:380][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.21-20.33.23:380][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.21-20.33.23:380][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.21-20.33.23:380][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.21-20.33.23:383][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.21-20.33.23:432][995]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.21-20.33.23:433][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.21-20.33.23:433][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.21-20.33.23:433][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.21-20.33.23:434][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.21-20.33.23:434][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.21-20.33.23:437][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.21-20.33.23:437][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.21-20.33.23:437][995]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.21-20.33.23:437][995]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ArenaShooter'.
+[2025.11.21-20.33.23:437][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.21-20.33.23:441][995]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.11.21-20.33.23:448][995]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 60) at 2025.11.21-14.33.23
+[2025.11.21-20.33.23:451][995]LogWorld: Bringing up level for play took: 0.009617
+[2025.11.21-20.33.23:453][995]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.11.21-20.33.23:462][995]PIE: Server logged in
+[2025.11.21-20.33.23:463][995]PIE: Play in editor total start time 0.163 seconds.
+[2025.11.21-20.33.23:516][996]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.21-20.33.25:222][ 96]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.11.21-20.33.25:908][137]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.33.33:338][582]LogCharacter: BP_ShooterCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.11.21-20.33.35:706][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-20.33.35:706][722]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.11.21-20.33.35:706][722]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.21-20.33.35:707][722]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.11.21-20.33.35:708][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-20.33.35:708][722]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.11.21-20.33.35:711][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.21-20.33.35:717][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.21-20.33.35:744][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.21-20.33.35:744][722]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.21-20.33.35:744][722]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.11.21-20.33.35:746][722]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.11.21-20.33.35:753][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.21-20.33.35:759][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.21-20.33.35:793][723]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.11.21-20.33.38:787][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.21-20.33.38:792][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.21-20.33.38:819][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/BP_ShooterCharacter] ([2] browsable assets)...
+[2025.11.21-20.33.38:863][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/BP_ShooterCharacter.BP_ShooterCharacter]
+[2025.11.21-20.33.38:863][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/BP_ShooterCharacter]
+[2025.11.21-20.33.38:910][895]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/BP_ShooterCharacter
+[2025.11.21-20.33.38:910][895]LogSavePackage: Moving 'D:/cs415_project/cs415_Final-Project/game/Saved/BP_ShooterCharacter421D0B344D821321B57ADFB15248582C.tmp' to 'D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset'
+[2025.11.21-20.33.38:926][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.259 ms (total: 382.232 ms)
+[2025.11.21-20.33.38:961][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.21-20.33.38:961][895]LogContentValidation: Enabled validators:
+[2025.11.21-20.33.38:961][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.21-20.33.38:961][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.21-20.33.38:961][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.21-20.33.38:961][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.21-20.33.38:961][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.21-20.33.38:961][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.21-20.33.38:961][895]AssetCheck: /Game/Variant_Shooter/Blueprints/BP_ShooterCharacter Validating asset
