@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/UI/WBP_MainMenu.uasset",
+				"D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/Lvl_MainMenu.umap",
+				"D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/UI/WBP_PauseMenu.uasset",
+				"D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset",
 				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_pistol_001.uasset",
 				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_rifle_001.uasset",
 				"C:/Users/sosqwq/Documents/GitHub/CS415_FINAL/cs415_Final-Project/game/Content/Weapons/Weapons_Free/Meshes/Actors/AC_shotgun_001.uasset",
