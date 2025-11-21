@@ -9,7 +9,7 @@ Genre: FPS
 Group Members: Yunqi Han(Yunqih2), Yunzhe Wei(Yunzhe2), Zhenshuo Xu(Zx65)
 <br>
 </br>
-<b>Summary: <b>
+<b>Summary: </b>
 Our project is a FPS game set in a post-apocalyptic zombie world.The core of the game is to provide players with an intense, fast-paced combat experience while satisfying their desire for growth and collection
 <br>
 </br>
