@@ -18,6 +18,7 @@ The player's core activities include using various ranged weapons (such as pisto
 </br>
 
 <b>Team Member Tasks:</b>
+</br>
 Yunzhe Wei (Yunzhe2):</br>
 Develop the core AI logic (Patrol, Chase, Attack). - working (More enemy types)</br>
 Manage projectile collision detection and damage calculation. -done</br>
