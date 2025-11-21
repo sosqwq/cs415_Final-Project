@@ -1,0 +1,8 @@
+Breadcrumbs 'Parallel'
+ - ParallelDraw (Index: 0, Num: 2)
+ - PrePass DDM_AllOpaqueNoVelocity (Forced by Nanite)
+ - Scene
+ - RenderGraphExecute - CubemapCapture
+ - SceneRender
+ - CubemapCapture
+ - Frame 33457

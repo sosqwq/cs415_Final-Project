@@ -1,0 +1,9 @@
+Breadcrumbs 'Parallel'
+ - NoOcclusionPass
+ - Nanite::DrawGeometry
+ - Nanite::VisBuffer
+ - Scene
+ - RenderGraphExecute - CubemapCapture
+ - SceneRender
+ - CubemapCapture
+ - Frame 33457
