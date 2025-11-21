@@ -35,7 +35,7 @@ Creating game levels - plan</br>
 Gun sound effects - plan </br>
 
 Yunqi Han(yunqih2):</br>
-Develop loot drop logic - plan<</br>
+Develop loot drop logic - plan </br>
 Create UI -done</br>
 Implement state management (Save, Load , Quit Game)</br>
 Implement basic player movement (Walk, Run, Jump, Crouch) - done</br>
