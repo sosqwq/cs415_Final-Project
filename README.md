@@ -27,14 +27,14 @@ Creating game levels - plan</br>
 Enemy sound effect -plan</br>
 
 
-Zhenshuo Xu:
+Zhenshuo Xu:</br>
 Implement basic weapon functions (Fire, Reload, Switch Weapon) - working(more weapon type)</br>
 Develop the first-person camera system(basic view and Aiming view) - done </br>
 Develop loot pickup logic - plan</br>
 Creating game levels - plan</br>
 Gun sound effects - plan </br>
 
-Yunqi Han(yunqih2):
+Yunqi Han(yunqih2):</br>
 Develop loot drop logic - plan<</br>
 Create UI -done</br>
 Implement state management (Save, Load , Quit Game)</br>
