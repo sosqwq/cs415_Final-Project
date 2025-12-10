@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Unreal generated folders
+Saved/
+Intermediate/
+
 # Compiled Object files
 *.slo
 *.lo
