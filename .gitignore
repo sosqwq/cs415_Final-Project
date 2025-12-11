@@ -2,8 +2,8 @@
 .vs/
 
 # Unreal generated folders
-Saved/
-Intermediate/
+game\Saved
+game\Intermediate
 
 # Compiled Object files
 *.slo
