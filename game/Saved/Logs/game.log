@@ -2044,3 +2044,221 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.12.11-01.55.39:965][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.12.11-01.55.39:979][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
 [2025.12.11-01.55.40:177][183]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.12.11-01.57.54:644][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.12.11-01.57.57:323][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.12.11-01.57.57:338][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-01.57.57:410][668]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/WO/3TTYRO0ZJ05E1JMV2Q2A1X
+[2025.12.11-01.57.57:410][668]LogSavePackage: Moving 'D:/cs415_project/cs415_Final-Project/game/Saved/3TTYRO0ZJ05E1JMV2Q2A1XC90464804991544233BD3EA92EF20493.tmp' to 'D:/cs415_project/cs415_Final-Project/game/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/C/WO/3TTYRO0ZJ05E1JMV2Q2A1X.uasset'
+[2025.12.11-01.57.57:417][668]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/B/HQ/REWFTAMQRGT22CPCPSOVHY
+[2025.12.11-01.57.57:417][668]LogSavePackage: Moving 'D:/cs415_project/cs415_Final-Project/game/Saved/REWFTAMQRGT22CPCPSOVHY388D23454E802FCA18A5ECAE62159E4E.tmp' to 'D:/cs415_project/cs415_Final-Project/game/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/B/HQ/REWFTAMQRGT22CPCPSOVHY.uasset'
+[2025.12.11-01.57.57:418][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Shooter/Blueprints/AI/BP_Zombie2] ([2] browsable assets)...
+[2025.12.11-01.57.57:471][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Shooter/Blueprints/AI/BP_Zombie2.BP_Zombie2]
+[2025.12.11-01.57.57:471][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/AI/BP_Zombie2]
+[2025.12.11-01.57.57:471][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Variant_Shooter/Blueprints/AI/BP_Zombie2" FILE="D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/Blueprints/AI/BP_Zombie2.uasset" SILENT=true
+[2025.12.11-01.57.57:509][668]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/AI/BP_Zombie2
+[2025.12.11-01.57.57:509][668]LogSavePackage: Moving 'D:/cs415_project/cs415_Final-Project/game/Saved/BP_Zombie2013E1702459689EFC4581399021BEAEB.tmp' to 'D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/Blueprints/AI/BP_Zombie2.uasset'
+[2025.12.11-01.57.57:511][668]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelPrototyping/Materials/BP_HealthPack] ([2] browsable assets)...
+[2025.12.11-01.57.57:527][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelPrototyping/Materials/BP_HealthPack.BP_HealthPack]
+[2025.12.11-01.57.57:527][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/BP_HealthPack]
+[2025.12.11-01.57.57:527][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/BP_HealthPack" FILE="D:/cs415_project/cs415_Final-Project/game/Content/LevelPrototyping/Materials/BP_HealthPack.uasset" SILENT=true
+[2025.12.11-01.57.57:547][668]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/BP_HealthPack
+[2025.12.11-01.57.57:547][668]LogSavePackage: Moving 'D:/cs415_project/cs415_Final-Project/game/Saved/BP_HealthPack66EB1341419850C4FC78DB82E444C0DF.tmp' to 'D:/cs415_project/cs415_Final-Project/game/Content/LevelPrototyping/Materials/BP_HealthPack.uasset'
+[2025.12.11-01.57.57:568][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.338 ms (total: 475.311 ms)
+[2025.12.11-01.57.57:625][668]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.11-01.57.57:625][668]LogContentValidation: Enabled validators:
+[2025.12.11-01.57.57:625][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-01.57.57:625][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-01.57.57:625][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-01.57.57:625][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-01.57.57:625][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-01.57.57:625][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-01.57.57:625][668]AssetCheck: /Game/Variant_Shooter/Lvl_ArenaShooter Validating asset
+[2025.12.11-01.57.57:625][668]AssetCheck: /Game/Variant_Shooter/Blueprints/AI/BP_Zombie2 Validating asset
+[2025.12.11-01.57.57:627][668]AssetCheck: /Game/LevelPrototyping/Materials/BP_HealthPack Validating asset
+[2025.12.11-01.57.57:673][668]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/cs415_project/cs415_Final-Project/game/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.11-01.57.59:194][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.11-01.57.59:209][719]LogContentBundle: [Lvl_ArenaShooter(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.11-01.57.59:209][719]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' started...
+[2025.12.11-01.57.59:210][719]LogWorldPartition: FSpatialHashSettings::UpdateSettings : UseAlignedGridLevels = 0, SnapNonAlignedGridLevelsToLowerLevels = 0, PlaceSmallActorsUsingLocation = 1, PlacePartitionActorsUsingLocation = 1
+[2025.12.11-01.57.59:210][719]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ArenaShooter' took 1.559 ms (total: 12.961 ms)
+[2025.12.11-01.57.59:217][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.11-01.57.59:218][719]LogPlayLevel: Creating play world package: /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.12.11-01.57.59:244][719]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.11-01.57.59:250][719]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.079 ms (total: 30.126 ms)
+[2025.12.11-01.57.59:250][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032834s)
+[2025.12.11-01.57.59:251][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Variant_Shooter/Lvl_ArenaShooter.Lvl_ArenaShooter to /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter (0.032891s)
+[2025.12.11-01.57.59:329][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.12.11-01.57.59:332][719]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ArenaShooter
+[2025.12.11-01.57.59:334][719]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ArenaShooter)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.11-01.57.59:334][719]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.11-01.57.59:334][719]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.11-01.57.59:334][719]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.11-01.57.59:341][719]LogWorldPartition: Display: WorldPartition initialize took 7.217 ms (total: 2.61 sec)
+[2025.12.11-01.57.59:341][719]LogPlayLevel: PIE: World Init took: (0.009935s)
+[2025.12.11-01.57.59:343][719]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.11-01.57.59:343][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.11-01.57.59:343][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.11-01.57.59:343][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.11-01.57.59:343][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.11-01.57.59:343][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.11-01.57.59:347][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.11-01.57.59:439][719]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.12.11-01.57.59:439][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.11-01.57.59:439][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.11-01.57.59:439][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.11-01.57.59:439][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.11-01.57.59:439][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.11-01.57.59:444][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.11-01.57.59:444][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.11-01.57.59:444][719]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.11-01.57.59:444][719]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ArenaShooter'.
+[2025.12.11-01.57.59:444][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.11-01.57.59:450][719]LogLoad: Game class is 'BP_ShooterGameMode_C'
+[2025.12.11-01.57.59:464][719]LogWorld: Bringing World /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter up for play (max tick rate 60) at 2025.12.10-19.57.59
+[2025.12.11-01.57.59:468][719]LogWorld: Bringing up level for play took: 0.017962
+[2025.12.11-01.57.59:472][719]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.12.11-01.57.59:485][719]LogBlueprintUserMessages: [BP_Zombie2_C_UAID_F43BD87ADB620BAA02_1818426951] Enter
+[2025.12.11-01.57.59:489][719]PIE: Server logged in
+[2025.12.11-01.57.59:492][719]PIE: Play in editor total start time 0.283 seconds.
+[2025.12.11-01.57.59:571][719]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-01.58.01:031][749]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.12.11-01.58.04:519][918]LogBlueprintUserMessages: [item_C_UAID_A036BCADF7FFB5A902_1487131816] inside
+[2025.12.11-01.58.04:892][937]LogBlueprintUserMessages: [BP_Zombie2_C_UAID_F43BD87ADB620BAA02_1818426951] Exit
+[2025.12.11-01.58.05:051][945]LogBlueprintUserMessages: [item_C_UAID_A036BCADF7FFB5A902_1487131816] outside
+[2025.12.11-01.58.05:701][977]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.05:701][977]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.05:811][982]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.05:812][982]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.05:920][987]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.05:920][987]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:031][992]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:031][992]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:137][997]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:137][997]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:242][  2]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:243][  2]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:354][  7]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:354][  7]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:460][ 12]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:460][ 12]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:575][ 17]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:575][ 17]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:679][ 22]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:679][ 22]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:789][ 27]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:789][ 27]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:900][ 32]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.06:901][ 32]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:007][ 37]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:008][ 37]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:089][ 41]LogBlueprintUserMessages: [BP_Zombie2_C_UAID_F43BD87ADB620BAA02_1818426951] Enter
+[2025.12.11-01.58.07:121][ 42]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:122][ 42]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:231][ 47]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:231][ 47]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:341][ 52]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:342][ 52]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:455][ 57]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:455][ 57]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:563][ 62]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:564][ 62]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:675][ 67]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:675][ 67]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:784][ 72]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.07:784][ 72]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.08:643][115]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.08:643][115]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.08:757][120]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.08:757][120]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.08:870][125]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.08:870][125]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.09:012][132]LogBlueprintUserMessages: [BP_Zombie2_C_UAID_F43BD87ADB620BAA02_1818426951] Exit
+[2025.12.11-01.58.13:447][356]LogBlueprintUserMessages: [BP_ShooterWeapon_Pistol_C_0] 50
+[2025.12.11-01.58.14:754][423]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.14:755][423]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.14:871][428]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.14:871][428]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.14:976][433]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.14:976][433]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:044][436]LogBlueprintUserMessages: [BP_Zombie2_C_0] Enter
+[2025.12.11-01.58.15:044][436]LogBlueprintUserMessages: [BP_Zombie2_C_0] Enter
+[2025.12.11-01.58.15:044][436]LogBlueprintUserMessages: [BP_Zombie2_C_0] Enter
+[2025.12.11-01.58.15:082][438]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:082][438]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:201][443]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:201][443]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:306][448]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:307][448]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:411][453]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:411][453]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:515][458]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:517][458]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:625][463]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:625][463]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:734][468]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:734][468]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:842][473]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:843][473]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:954][478]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.15:954][478]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:068][483]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:068][483]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:175][488]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:177][488]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:289][493]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:289][493]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:416][498]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:416][498]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:524][503]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.16:524][503]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.17:052][528]LogBlueprintUserMessages: [BP_Zombie2_C_1] Enter
+[2025.12.11-01.58.17:052][528]LogBlueprintUserMessages: [BP_Zombie2_C_1] Enter
+[2025.12.11-01.58.17:052][528]LogBlueprintUserMessages: [BP_Zombie2_C_1] Enter
+[2025.12.11-01.58.17:052][528]LogBlueprintUserMessages: [BP_Zombie2_C_1] Enter
+[2025.12.11-01.58.17:897][569]LogBlueprintUserMessages: [BP_Zombie2_C_0] Exit
+[2025.12.11-01.58.17:959][572]LogBlueprintUserMessages: [BP_Zombie2_C_0] Exit
+[2025.12.11-01.58.18:224][585]LogBlueprintUserMessages: [BP_Zombie2_C_0] Exit
+[2025.12.11-01.58.18:736][610]LogBlueprintUserMessages: [BP_ShooterWeapon_ak_C_0] 40
+[2025.12.11-01.58.19:563][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:563][650]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:669][655]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:669][655]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:782][660]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:783][660]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:886][665]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:887][665]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.19:904][666]LogBlueprintUserMessages: [BP_Zombie1_C_UAID_00FF8A8A01D44BAA02_1966848217] DROPDROPDROP
+[2025.12.11-01.58.20:007][670]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:007][670]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:114][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:114][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:232][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:232][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:337][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:337][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:451][690]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:451][690]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:565][695]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.20:565][695]LogSkinnedMeshComp: Warning: GetSocketInfoByName(Muzzle): No SkeletalMesh for Component(FP_Weapon) Actor(BP_ShooterWeapon_ak_C /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter:PersistentLevel.BP_ShooterWeapon_ak_C_0)
+[2025.12.11-01.58.21:307][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-01.58.21:307][729]LogWorld: BeginTearingDown for /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter
+[2025.12.11-01.58.21:307][729]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.11-01.58.21:308][729]LogWorld: UWorld::CleanupWorld for Lvl_ArenaShooter, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-01.58.21:312][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-01.58.21:312][729]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Variant_Shooter/UEDPIE_0_Lvl_ArenaShooter.Lvl_ArenaShooter
+[2025.12.11-01.58.21:319][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.11-01.58.21:331][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-01.58.21:417][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-01.58.21:418][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.11-01.58.21:418][729]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.11-01.58.21:421][729]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.11-01.58.21:446][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.12.11-01.58.21:651][730]LogPlayLevel: Display: Destroying online subsystem :Context_48
