@@ -20,24 +20,24 @@ The player's core activities include using various ranged weapons (such as pisto
 <b>Team Member Tasks:</b>
 </br>
 Yunzhe Wei (Yunzhe2):</br>
-Develop the core AI logic (Patrol, Chase, Attack). - working (More enemy types)</br>
-Manage projectile collision detection and damage calculation. -done</br>
-Define different enemy types -working</br>
-Creating game levels - plan</br>
-Enemy sound effect -plan</br>
+Develop the core AI logic (Patrol, Chase, Attack).</br>
+Manage projectile collision detection and damage calculation.</br>
+Define different enemy types</br>
+Creating game levels </br>
+Enemy sound effect</br>
 
 
 Zhenshuo Xu:</br>
-Implement basic weapon functions (Fire, Reload, Switch Weapon) - working(more weapon type)</br>
-Develop the first-person camera system(basic view and Aiming view) - done </br>
-Develop loot pickup logic - plan</br>
-Creating game levels - plan</br>
-Gun sound effects - plan </br>
+Implement basic weapon functions (Fire, Reload, Switch Weapon)</br>
+Develop the first-person camera system(basic view and Aiming view)</br>
+Develop loot pickup logic</br>
+Creating game levels</br>
+Gun sound effects</br>
 
 Yunqi Han(yunqih2):</br>
-Develop loot drop logic - plan </br>
-Create UI -done</br>
+Develop loot drop logic </br>
+Create UI</br>
 Implement state management (Save, Load , Quit Game)</br>
-Implement basic player movement (Walk, Run, Jump, Crouch) - done</br>
-Creating game levels -plan</br>
-Level sound effect - plan</br>
+Implement basic player movement (Walk, Run, Jump, Crouch)</br>
+Creating game levels</br>
+Level sound effect</br>
