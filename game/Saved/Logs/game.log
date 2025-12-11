@@ -2172,3 +2172,18 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.12.11-06.17.41:229][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2840.503418
 [2025.12.11-06.17.42:234][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.11-06.17.42:234][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2841.170654, Update Interval: 350.417786
+[2025.12.11-06.20.46:985][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-06.20.47:178][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Shooter/Blueprints/BP_ShooterCharacter] ([2] browsable assets)...
+[2025.12.11-06.20.47:178][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Shooter/Blueprints/BP_ShooterCharacter]
+[2025.12.11-06.20.47:285][941]LogSavePackage: Moving output files for package: /Game/Variant_Shooter/Blueprints/BP_ShooterCharacter
+[2025.12.11-06.20.47:285][941]LogSavePackage: Moving 'D:/cs415_project/cs415_Final-Project/game/Saved/BP_ShooterCharacter314DB80D4B348520F7E9A189C186AB5A.tmp' to 'D:/cs415_project/cs415_Final-Project/game/Content/Variant_Shooter/Blueprints/BP_ShooterCharacter.uasset'
+[2025.12.11-06.20.47:308][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.303 ms
+[2025.12.11-06.20.47:387][941]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-06.20.47:387][941]LogContentValidation: Enabled validators:
+[2025.12.11-06.20.47:389][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-06.20.47:389][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-06.20.47:389][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-06.20.47:389][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-06.20.47:389][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-06.20.47:389][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-06.20.47:392][941]AssetCheck: /Game/Variant_Shooter/Blueprints/BP_ShooterCharacter Validating asset
