@@ -3,7 +3,7 @@
 <b>Game Title: One Against All</b>
 <br>
 </br>
-Genre: FPS
+Genre: FPS PVE
 <br>
 </br>
 Group Members: Yunqi Han(Yunqih2), Yunzhe Wei(Yunzhe2), Zhenshuo Xu(Zx65)
@@ -13,8 +13,11 @@ Group Members: Yunqi Han(Yunqih2), Yunzhe Wei(Yunzhe2), Zhenshuo Xu(Zx65)
 Our project is a FPS game set in a post-apocalyptic zombie world.The core of the game is to provide players with an intense, fast-paced combat experience while satisfying their desire for growth and collection
 <br>
 </br>
-The player's core activities include using various ranged weapons (such as pistols, rifles, shotgun) to fight enemies (including regular enemies and elites/bosses).By defeating enemies, players can gain experience and resources to get their new weapons and equipment. The goal of the game is to make players feel a strong sense of achievement when defeating powerful enemies.
+The player's core activities include using various ranged weapons (such as pistols, rifles, shotgun) to fight enemies.By defeating enemies, players can gain experience and resources to get their new weapons and equipment. The goal of the game is to make players feel a strong sense of achievement when defeating enemies.
 <br>
+</br>
+<br>
+There are two types of zombies in the game. The first type (BP_Zombie1) is the normal zombie that can approach and attack player. The second type is a buff zombie that has an aura that can buff all the zombies in its range and increase their damage.
 </br>
 
 <b>Controls:</b>
