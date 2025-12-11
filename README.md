@@ -17,6 +17,16 @@ The player's core activities include using various ranged weapons (such as pisto
 <br>
 </br>
 
+<b>Controls:</b>
+<br>
+WASD: Move
+Left Control: Crouch
+Left Shift: Silent Walking
+R: Reload
+E: Pick up Bullet
+P: Pause
+</br>
+
 <b>Team Member Tasks:</b>
 </br>
 Yunzhe Wei (Yunzhe2):</br>
