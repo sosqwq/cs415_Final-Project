@@ -20,7 +20,7 @@ The player's core activities include using various ranged weapons (such as pisto
 <b>Controls:</b>
 WASD: Move</br>
 Left Control: Crouch</br>
-Left Shift: Silent Walking</br>
+Left Shift: Silent Walk</br>
 R: Reload</br>
 E: Pick up Bullet</br>
 P: Pause</br>
